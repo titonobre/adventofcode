@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode",
+  "version": "0.0.0",
+  "private": "true",
+  "type": "module",
+  "devDependencies": {
+    "cacache": "^19.0.1",
+    "css-select": "^5.1.0",
+    "dom-serializer": "^2.0.0",
+    "dotenv": "^16.4.5",
+    "htmlparser2": "^9.1.0",
+    "node-fetch": "^3.3.2",
+    "plop": "^4.0.1",
+    "turndown": "^7.2.0"
+  },
+  "scripts": {
+    "plop": "plop",
+    "test": "node --test --"
+  }
+}
